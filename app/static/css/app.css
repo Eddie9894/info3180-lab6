@@ -2,6 +2,12 @@ body {
     padding-top: 5rem;
 }
 
+.news__item{
+    float:left;
+    border-radius: 5px;
+    border-top:5px solid green;
+    margin:10px;
+}
 footer  {
     padding-top: 20px;
 }
